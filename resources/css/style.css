@@ -1,0 +1,25 @@
+* {
+  font-family: Verdana;
+  text-align: center;
+}
+
+
+h1 {
+  color: White;
+  font-size: 50px;
+}
+
+h5 {
+  color: Aquamarine;
+}
+
+
+p, 
+li {
+  
+}
+
+
+a {
+  text-decoration: none;
+}
